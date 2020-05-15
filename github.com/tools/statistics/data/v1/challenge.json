@@ -1,0 +1,7265 @@
+[{
+  "boss_num": 3,
+  "challenge_time": 1588860216,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 383128,
+  "health_ramain": 3011701,
+  "is_continue": false,
+  "message": "",
+  "qqid": 248600690
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860460,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 367920,
+  "health_ramain": 2207363,
+  "is_continue": false,
+  "message": "",
+  "qqid": 248600690
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860737,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 244373,
+  "health_ramain": 1962990,
+  "is_continue": false,
+  "message": "",
+  "qqid": 248600690
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588948686,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 352739,
+  "health_ramain": 9301795,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588948702,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 367868,
+  "health_ramain": 8933927,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588948757,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 257733,
+  "health_ramain": 8676194,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589026763,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 392647,
+  "health_ramain": 5266211,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589026780,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 422824,
+  "health_ramain": 4843387,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589026800,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 257386,
+  "health_ramain": 4586001,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589119981,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 365746,
+  "health_ramain": 13088028,
+  "is_continue": false,
+  "message": "",
+  "qqid": 248600690
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589119991,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 369656,
+  "health_ramain": 12718372,
+  "is_continue": false,
+  "message": "",
+  "qqid": 248600690
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589120000,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 273472,
+  "health_ramain": 12444900,
+  "is_continue": false,
+  "message": "",
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589201257,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 429748,
+  "health_ramain": 5032966,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589201269,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 439869,
+  "health_ramain": 4593097,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589201285,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 268543,
+  "health_ramain": 4324554,
+  "is_continue": false,
+  "message": null,
+  "qqid": 248600690
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851350,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 145352,
+  "health_ramain": 2389455,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851424,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 289694,
+  "health_ramain": 2099761,
+  "is_continue": false,
+  "message": "",
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588858929,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 137596,
+  "health_ramain": 5048177,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588942705,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 302042,
+  "health_ramain": 11308013,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588942924,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 184115,
+  "health_ramain": 11123898,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588946169,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 205821,
+  "health_ramain": 9898161,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589014070,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 240073,
+  "health_ramain": 1512033,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589014290,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 228349,
+  "health_ramain": 1283684,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589044201,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 245366,
+  "health_ramain": 2834698,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589097592,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 238197,
+  "health_ramain": 7200059,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589097752,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 76032,
+  "health_ramain": 6841569,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589120277,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 295596,
+  "health_ramain": 12149304,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589206443,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 373787,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589207464,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 12442,
+  "health_ramain": 9006183,
+  "is_continue": true,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589207690,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 225191,
+  "health_ramain": 8360634,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208062,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 200464,
+  "health_ramain": 7763063,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299347,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 322291,
+  "health_ramain": 9291986,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589301376,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 198497,
+  "health_ramain": 9093489,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589301612,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 210503,
+  "health_ramain": 8882986,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589358292,
+  "comment": {},
+  "cycle": 4,
+  "damage": 217878,
+  "health_ramain": 3250463,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589388635,
+  "comment": {},
+  "cycle": 4,
+  "damage": 358554,
+  "health_ramain": 3760384,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589388767,
+  "comment": {},
+  "cycle": 4,
+  "damage": 191753,
+  "health_ramain": 3568631,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589431632,
+  "comment": {},
+  "cycle": 4,
+  "damage": 208905,
+  "health_ramain": 9868564,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589445971,
+  "comment": {},
+  "cycle": 4,
+  "damage": 333187,
+  "health_ramain": 6190684,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589446349,
+  "comment": {},
+  "cycle": 4,
+  "damage": 163319,
+  "health_ramain": 6027365,
+  "is_continue": false,
+  "message": null,
+  "qqid": 398762681
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588861356,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 145350,
+  "health_ramain": 1576416,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588861765,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 88292,
+  "health_ramain": 1488124,
+  "is_continue": false,
+  "message": "",
+  "qqid": 403966047
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588864701,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 119782,
+  "health_ramain": 548009,
+  "is_continue": false,
+  "message": "",
+  "qqid": 403966047
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588950919,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 180700,
+  "health_ramain": 7907685,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588951429,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 170369,
+  "health_ramain": 7737316,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588951437,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 173637,
+  "health_ramain": 7563679,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589030846,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 205344,
+  "health_ramain": 881674,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589031176,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 186564,
+  "health_ramain": 23384,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589031899,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 23384,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589090794,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 192311,
+  "health_ramain": 8603035,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589091387,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 164824,
+  "health_ramain": 8438211,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589102124,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 120922,
+  "health_ramain": 6503200,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589179228,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 234946,
+  "health_ramain": 2271675,
+  "is_continue": false,
+  "message": "",
+  "qqid": 403966047
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589206410,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 131009,
+  "health_ramain": 474752,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589206418,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 100965,
+  "health_ramain": 373787,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589291848,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 216563,
+  "health_ramain": 147892,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293031,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 131716,
+  "health_ramain": 17055128,
+  "is_continue": false,
+  "message": null,
+  "qqid": 403966047
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589294950,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 101608,
+  "health_ramain": 12659843,
+  "is_continue": false,
+  "message": "",
+  "qqid": 403966047
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851503,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 445458,
+  "health_ramain": 879121,
+  "is_continue": false,
+  "message": "",
+  "qqid": 604445436
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851562,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 306755,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": "",
+  "qqid": 604445436
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588851664,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 34983,
+  "health_ramain": 9965017,
+  "is_continue": true,
+  "message": "",
+  "qqid": 604445436
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588853532,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 257271,
+  "health_ramain": 9488111,
+  "is_continue": false,
+  "message": "",
+  "qqid": 604445436
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588904829,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 403515,
+  "health_ramain": 6293254,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588905513,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 315064,
+  "health_ramain": 5641802,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588912218,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 243550,
+  "health_ramain": 3568127,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589029840,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 368607,
+  "health_ramain": 3462931,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589030522,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 496175,
+  "health_ramain": 1434480,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589031044,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 284315,
+  "health_ramain": 597359,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589123992,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 530413,
+  "health_ramain": 10134637,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589124482,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 323198,
+  "health_ramain": 9229556,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589124850,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 255273,
+  "health_ramain": 8875873,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589165563,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 556655,
+  "health_ramain": 861376,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589207848,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 397107,
+  "health_ramain": 7963527,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208183,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 265031,
+  "health_ramain": 7498032,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292498,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 559353,
+  "health_ramain": 18390824,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292922,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 348072,
+  "health_ramain": 17521928,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293334,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 237100,
+  "health_ramain": 16068882,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589337821,
+  "comment": {},
+  "cycle": 3,
+  "damage": 534690,
+  "health_ramain": 941271,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589378885,
+  "comment": {},
+  "cycle": 4,
+  "damage": 374108,
+  "health_ramain": 8510485,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589379235,
+  "comment": {},
+  "cycle": 4,
+  "damage": 262852,
+  "health_ramain": 7740815,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457106,
+  "comment": {},
+  "cycle": 4,
+  "damage": 584079,
+  "health_ramain": 14441989,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457445,
+  "comment": {},
+  "cycle": 4,
+  "damage": 423739,
+  "health_ramain": 13346194,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457924,
+  "comment": {},
+  "cycle": 4,
+  "damage": 319904,
+  "health_ramain": 12710820,
+  "is_continue": false,
+  "message": null,
+  "qqid": 604445436
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829753,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 378527,
+  "health_ramain": 3790673,
+  "is_continue": false,
+  "message": "",
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829820,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 291076,
+  "health_ramain": 2840107,
+  "is_continue": false,
+  "message": "",
+  "qqid": 645007640
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588846393,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 213848,
+  "health_ramain": 2994189,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588897151,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 354701,
+  "health_ramain": 10149484,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588921216,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 368579,
+  "health_ramain": 18737911,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588929024,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 297968,
+  "health_ramain": 15840760,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589002059,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 421723,
+  "health_ramain": 4051138,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589002079,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 428583,
+  "health_ramain": 3622555,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589003973,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 322547,
+  "health_ramain": 1778656,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589114142,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 372218,
+  "health_ramain": 569618,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589114176,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 150745,
+  "health_ramain": 418873,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589114247,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 375628,
+  "health_ramain": 43245,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589168965,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 456684,
+  "health_ramain": 5108678,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589168980,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 361656,
+  "health_ramain": 4747022,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589195146,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 300369,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589195337,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 9672,
+  "health_ramain": 7990328,
+  "is_continue": true,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589237645,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 508495,
+  "health_ramain": 2242045,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589278598,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 319443,
+  "health_ramain": 8396201,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589278606,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 252577,
+  "health_ramain": 8143624,
+  "is_continue": false,
+  "message": null,
+  "qqid": 645007640
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589370856,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 541324,
+  "health_ramain": 6390377,
+  "is_continue": false,
+  "message": "",
+  "qqid": 645007640
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589370863,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 350273,
+  "health_ramain": 6040104,
+  "is_continue": false,
+  "message": "",
+  "qqid": 645007640
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589370871,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 197499,
+  "health_ramain": 5842605,
+  "is_continue": false,
+  "message": "",
+  "qqid": 645007640
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588853693,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 289226,
+  "health_ramain": 8581592,
+  "is_continue": false,
+  "message": "",
+  "qqid": 727946377
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588853700,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 306626,
+  "health_ramain": 8274966,
+  "is_continue": false,
+  "message": "",
+  "qqid": 727946377
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588853709,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 237189,
+  "health_ramain": 8037777,
+  "is_continue": false,
+  "message": "",
+  "qqid": 727946377
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830426,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 375490,
+  "health_ramain": 7491742,
+  "is_continue": false,
+  "message": "",
+  "qqid": 737228385
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830459,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 249633,
+  "health_ramain": 6953735,
+  "is_continue": false,
+  "message": "",
+  "qqid": 737228385
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830582,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 241650,
+  "health_ramain": 6138782,
+  "is_continue": false,
+  "message": "",
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588917456,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 202727,
+  "health_ramain": 684892,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588917572,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 256186,
+  "health_ramain": 428706,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588920255,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 401008,
+  "health_ramain": 19106490,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588983234,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 435833,
+  "health_ramain": 5307818,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589000723,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 316375,
+  "health_ramain": 4778013,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589023878,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 164716,
+  "health_ramain": 220710,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589097615,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 282458,
+  "health_ramain": 6917601,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589098335,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 217447,
+  "health_ramain": 6624122,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589110582,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 377285,
+  "health_ramain": 1428959,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589192967,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 256560,
+  "health_ramain": 588797,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589195495,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 435799,
+  "health_ramain": 7554529,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589195850,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 337351,
+  "health_ramain": 7217178,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589282450,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 297463,
+  "health_ramain": 5348745,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589283351,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 241469,
+  "health_ramain": 5107276,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589283458,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 410846,
+  "health_ramain": 4696430,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589324024,
+  "comment": {},
+  "cycle": 3,
+  "damage": 249573,
+  "health_ramain": 8633413,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589324179,
+  "comment": {},
+  "cycle": 3,
+  "damage": 418986,
+  "health_ramain": 8214427,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589343860,
+  "comment": {},
+  "cycle": 4,
+  "damage": 260815,
+  "health_ramain": 5513200,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456200,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 439690,
+  "health_ramain": 18523438,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456211,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 348357,
+  "health_ramain": 18175081,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456244,
+  "comment": {},
+  "cycle": 4,
+  "damage": 226477,
+  "health_ramain": 17948604,
+  "is_continue": false,
+  "message": null,
+  "qqid": 737228385
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829674,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 412653,
+  "health_ramain": 4169200,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829882,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 384244,
+  "health_ramain": 2247876,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830442,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 288374,
+  "health_ramain": 7203368,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588897256,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 395741,
+  "health_ramain": 9753743,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588897275,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 389789,
+  "health_ramain": 9363954,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588915264,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 279724,
+  "health_ramain": 1327990,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588993138,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 429898,
+  "health_ramain": 416472,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588993148,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 397386,
+  "health_ramain": 19086,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589002142,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 283319,
+  "health_ramain": 2368474,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589088296,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 428872,
+  "health_ramain": 9630830,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589088309,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 380460,
+  "health_ramain": 9250370,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589106244,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 264555,
+  "health_ramain": 4001829,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589157835,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 422734,
+  "health_ramain": 4805229,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589157853,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 419220,
+  "health_ramain": 4386009,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589179215,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 263896,
+  "health_ramain": 2506621,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589247307,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 389145,
+  "health_ramain": 373079,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589247324,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 373079,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589247342,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 48520,
+  "health_ramain": 11951480,
+  "is_continue": true,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589263994,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 262483,
+  "health_ramain": 9993515,
+  "is_continue": false,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589335543,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 473247,
+  "health_ramain": 3093030,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589335560,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 424637,
+  "health_ramain": 2668393,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367692,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 262512,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 764609706
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589367714,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 15667,
+  "health_ramain": 7984333,
+  "is_continue": true,
+  "message": "",
+  "qqid": 764609706
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588846331,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 443089,
+  "health_ramain": 3208037,
+  "is_continue": false,
+  "message": "",
+  "qqid": 822787144
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588853565,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 367204,
+  "health_ramain": 8870818,
+  "is_continue": false,
+  "message": "",
+  "qqid": 822787144
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588854990,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 236328,
+  "health_ramain": 6771297,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588898695,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 386480,
+  "health_ramain": 8222252,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588900386,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 373360,
+  "health_ramain": 7511503,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588909100,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 264192,
+  "health_ramain": 4206049,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589027763,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 280923,
+  "health_ramain": 4305078,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589028496,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 473540,
+  "health_ramain": 3831538,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589030318,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 444352,
+  "health_ramain": 1930655,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589093693,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 394635,
+  "health_ramain": 8043576,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589094794,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 385202,
+  "health_ramain": 7658374,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589095518,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 220118,
+  "health_ramain": 7438256,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589165368,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 439197,
+  "health_ramain": 1624885,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589166491,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 284178,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589166882,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 158562,
+  "health_ramain": 5565362,
+  "is_continue": true,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589170222,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 279917,
+  "health_ramain": 4467105,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589255219,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 427196,
+  "health_ramain": 11524284,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589256098,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 394502,
+  "health_ramain": 11129782,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589284616,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 246166,
+  "health_ramain": 3431848,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589333563,
+  "comment": {},
+  "cycle": 3,
+  "damage": 518097,
+  "health_ramain": 4093909,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589341484,
+  "comment": {},
+  "cycle": 3,
+  "damage": 444887,
+  "health_ramain": 496384,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589370673,
+  "comment": {},
+  "cycle": 4,
+  "damage": 300834,
+  "health_ramain": 6931701,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589424791,
+  "comment": {},
+  "cycle": 4,
+  "damage": 446267,
+  "health_ramain": 10720857,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589425472,
+  "comment": {},
+  "cycle": 4,
+  "damage": 403264,
+  "health_ramain": 10317593,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589448875,
+  "comment": {},
+  "cycle": 4,
+  "damage": 265343,
+  "health_ramain": 5762022,
+  "is_continue": false,
+  "message": null,
+  "qqid": 822787144
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588854928,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 410437,
+  "health_ramain": 7186354,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588858950,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 172085,
+  "health_ramain": 4876092,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588859003,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 111005,
+  "health_ramain": 4765087,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588950253,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 189730,
+  "health_ramain": 8486464,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588950269,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 269055,
+  "health_ramain": 8217409,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588950283,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 129024,
+  "health_ramain": 8088385,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589031956,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 245803,
+  "health_ramain": 9754197,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589031970,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 273768,
+  "health_ramain": 9480429,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589032181,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 119611,
+  "health_ramain": 9069661,
+  "is_continue": false,
+  "message": null,
+  "qqid": 836771315
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589126712,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 238218,
+  "health_ramain": 8637655,
+  "is_continue": false,
+  "message": "",
+  "qqid": 836771315
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589126723,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 212196,
+  "health_ramain": 8425459,
+  "is_continue": false,
+  "message": "",
+  "qqid": 836771315
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589126729,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 145769,
+  "health_ramain": 8279690,
+  "is_continue": false,
+  "message": "",
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211688,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 287851,
+  "health_ramain": 3556244,
+  "is_continue": false,
+  "message": "",
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211715,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 254295,
+  "health_ramain": 3301949,
+  "is_continue": false,
+  "message": "",
+  "qqid": 836771315
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589212412,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 122047,
+  "health_ramain": 3179902,
+  "is_continue": false,
+  "message": "",
+  "qqid": 836771315
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829954,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 370812,
+  "health_ramain": 370625,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830473,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 345055,
+  "health_ramain": 6608680,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588857102,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 281890,
+  "health_ramain": 5796930,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588903716,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 448925,
+  "health_ramain": 6696769,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588924734,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 312176,
+  "health_ramain": 16138728,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588948223,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 243627,
+  "health_ramain": 9654534,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589024903,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 483853,
+  "health_ramain": 6329584,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589032653,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 333890,
+  "health_ramain": 8735771,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589033343,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 251095,
+  "health_ramain": 8484676,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117880,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 495335,
+  "health_ramain": 14395630,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589118495,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 320003,
+  "health_ramain": 14075627,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589118565,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 264752,
+  "health_ramain": 13810875,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589201316,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 491085,
+  "health_ramain": 3833469,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211668,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 366638,
+  "health_ramain": 4061444,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211675,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 217349,
+  "health_ramain": 3844095,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299062,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 533351,
+  "health_ramain": 10225069,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299070,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 372043,
+  "health_ramain": 9853026,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299076,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 238749,
+  "health_ramain": 9614277,
+  "is_continue": false,
+  "message": "",
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589335485,
+  "comment": {},
+  "cycle": 3,
+  "damage": 527632,
+  "health_ramain": 3566277,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589335827,
+  "comment": {},
+  "cycle": 3,
+  "damage": 366394,
+  "health_ramain": 2301999,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589380550,
+  "comment": {},
+  "cycle": 4,
+  "damage": 244804,
+  "health_ramain": 6116936,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589455751,
+  "comment": {},
+  "cycle": 4,
+  "damage": 463624,
+  "health_ramain": 18963128,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456332,
+  "comment": {},
+  "cycle": 4,
+  "damage": 406562,
+  "health_ramain": 17542042,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456496,
+  "comment": {},
+  "cycle": 4,
+  "damage": 256692,
+  "health_ramain": 16873478,
+  "is_continue": false,
+  "message": null,
+  "qqid": 928041311
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588862987,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 347701,
+  "health_ramain": 1140423,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588863481,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 268666,
+  "health_ramain": 667791,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588868483,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 178093,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": "",
+  "qqid": 978345307
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588869092,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 275322,
+  "health_ramain": 11724678,
+  "is_continue": true,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588934789,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 511271,
+  "health_ramain": 14258591,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588934958,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 329027,
+  "health_ramain": 13929564,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588936496,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 284050,
+  "health_ramain": 13426878,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589037407,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 269241,
+  "health_ramain": 4941101,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589038084,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 453438,
+  "health_ramain": 4487663,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589038941,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 427603,
+  "health_ramain": 4060060,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589103215,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 245697,
+  "health_ramain": 6257503,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589116180,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 576207,
+  "health_ramain": 17794790,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589118724,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 357101,
+  "health_ramain": 13453774,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589204868,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 464781,
+  "health_ramain": 1861496,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589205079,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 472361,
+  "health_ramain": 1389135,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589205328,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 295920,
+  "health_ramain": 1093215,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292424,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 539077,
+  "health_ramain": 19460923,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292572,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 366507,
+  "health_ramain": 18024317,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292979,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 335084,
+  "health_ramain": 17186844,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589337759,
+  "comment": {},
+  "cycle": 3,
+  "damage": 443424,
+  "health_ramain": 1475961,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589378697,
+  "comment": {},
+  "cycle": 4,
+  "damage": 356978,
+  "health_ramain": 8884593,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589382345,
+  "comment": {},
+  "cycle": 4,
+  "damage": 265305,
+  "health_ramain": 5188152,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589434350,
+  "comment": {},
+  "cycle": 4,
+  "damage": 268307,
+  "health_ramain": 9190056,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589455660,
+  "comment": {},
+  "cycle": 4,
+  "damage": 573248,
+  "health_ramain": 19426752,
+  "is_continue": false,
+  "message": null,
+  "qqid": 978345307
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829601,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 361685,
+  "health_ramain": 5259572,
+  "is_continue": false,
+  "message": "",
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829619,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 313806,
+  "health_ramain": 4945766,
+  "is_continue": false,
+  "message": "",
+  "qqid": 982406841
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830487,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 228248,
+  "health_ramain": 6380432,
+  "is_continue": false,
+  "message": "",
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588915233,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 351218,
+  "health_ramain": 1882603,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588915243,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 274889,
+  "health_ramain": 1607714,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588915296,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 208872,
+  "health_ramain": 1119118,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589002107,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 340206,
+  "health_ramain": 3282349,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589002118,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 371518,
+  "health_ramain": 2910831,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589002127,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 259038,
+  "health_ramain": 2651793,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589066525,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 376155,
+  "health_ramain": 1316348,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589066565,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 325760,
+  "health_ramain": 990588,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589066583,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 276959,
+  "health_ramain": 713629,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589173701,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 397130,
+  "health_ramain": 4069975,
+  "is_continue": false,
+  "message": "",
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589173709,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 346204,
+  "health_ramain": 3723771,
+  "is_continue": false,
+  "message": "",
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589179201,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 284060,
+  "health_ramain": 2770517,
+  "is_continue": false,
+  "message": "",
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589278569,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 349143,
+  "health_ramain": 9314512,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589278578,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 377040,
+  "health_ramain": 8937472,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589278588,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 221828,
+  "health_ramain": 8715644,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589346448,
+  "comment": {},
+  "cycle": 4,
+  "damage": 374110,
+  "health_ramain": 5139090,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589346622,
+  "comment": {},
+  "cycle": 4,
+  "damage": 419784,
+  "health_ramain": 4719306,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589346788,
+  "comment": {},
+  "cycle": 4,
+  "damage": 204371,
+  "health_ramain": 4514935,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589431196,
+  "comment": {},
+  "cycle": 4,
+  "damage": 240124,
+  "health_ramain": 10077469,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589452294,
+  "comment": {},
+  "cycle": 4,
+  "damage": 421958,
+  "health_ramain": 5340064,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589452431,
+  "comment": {},
+  "cycle": 4,
+  "damage": 249684,
+  "health_ramain": 5090380,
+  "is_continue": false,
+  "message": null,
+  "qqid": 982406841
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830650,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 272694,
+  "health_ramain": 5866088,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830666,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 205644,
+  "health_ramain": 5660444,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830673,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 302513,
+  "health_ramain": 5357931,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588922245,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 401853,
+  "health_ramain": 18336058,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588922258,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 334634,
+  "health_ramain": 18001424,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588922453,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 208456,
+  "health_ramain": 17406835,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589000220,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 19086,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589000280,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 327809,
+  "health_ramain": 5672191,
+  "is_continue": true,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589000297,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 408777,
+  "health_ramain": 5263414,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589000310,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 169026,
+  "health_ramain": 5094388,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589075508,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 390076,
+  "health_ramain": 11609924,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589075530,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 220258,
+  "health_ramain": 11389666,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589075547,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 92932,
+  "health_ramain": 11296734,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589165177,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 379735,
+  "health_ramain": 2565639,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589165185,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 333065,
+  "health_ramain": 2232574,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589165193,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 168492,
+  "health_ramain": 2064082,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589263941,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 415515,
+  "health_ramain": 10714267,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589263953,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 253571,
+  "health_ramain": 10460696,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589263961,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 204698,
+  "health_ramain": 10255998,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367585,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 456801,
+  "health_ramain": 2610403,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367597,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 382340,
+  "health_ramain": 2228063,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367604,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 282536,
+  "health_ramain": 1945527,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1041639542
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860144,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 338001,
+  "health_ramain": 3988459,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1160389860
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860155,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 365102,
+  "health_ramain": 3623357,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1160389860
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860203,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 228528,
+  "health_ramain": 3394829,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1160389860
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588929898,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 375908,
+  "health_ramain": 15464852,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588930152,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 343592,
+  "health_ramain": 15121260,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588930697,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 214245,
+  "health_ramain": 14907015,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589034259,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 373068,
+  "health_ramain": 7470808,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589034368,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 364120,
+  "health_ramain": 7106688,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589034490,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 207318,
+  "health_ramain": 6899370,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589108923,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 283854,
+  "health_ramain": 2764571,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589109041,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 254423,
+  "health_ramain": 2510148,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589109176,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 374113,
+  "health_ramain": 1806244,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589191641,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 413927,
+  "health_ramain": 1505448,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589191755,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 379602,
+  "health_ramain": 1125846,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589191884,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 280489,
+  "health_ramain": 845357,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589279121,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 266687,
+  "health_ramain": 7485334,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589279245,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 311137,
+  "health_ramain": 7174197,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589279347,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 360439,
+  "health_ramain": 6813758,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1160389860
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367657,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 405038,
+  "health_ramain": 620848,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1160389860
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367664,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 358336,
+  "health_ramain": 262512,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1160389860
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589370884,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 246403,
+  "health_ramain": 5596202,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1160389860
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829791,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 147250,
+  "health_ramain": 3363723,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1246969748
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829853,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 142362,
+  "health_ramain": 2697745,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1246969748
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829868,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 65625,
+  "health_ramain": 2632120,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588918368,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 106287,
+  "health_ramain": 19893713,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588918559,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 136761,
+  "health_ramain": 19736465,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588919303,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 228967,
+  "health_ramain": 19507498,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589001753,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 305152,
+  "health_ramain": 4472861,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589025289,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 242138,
+  "health_ramain": 5848429,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589025830,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 189571,
+  "health_ramain": 5658858,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117021,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 318525,
+  "health_ramain": 16285434,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117200,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 124311,
+  "health_ramain": 15642582,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117420,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 130611,
+  "health_ramain": 14890965,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589160040,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 338567,
+  "health_ramain": 4047892,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589165453,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 206854,
+  "health_ramain": 1418031,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589166205,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 175528,
+  "health_ramain": 685848,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589291861,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 147892,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292435,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 308314,
+  "health_ramain": 19152609,
+  "is_continue": true,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292446,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 202432,
+  "health_ramain": 18950177,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589292589,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 154317,
+  "health_ramain": 17870000,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589342243,
+  "comment": {},
+  "cycle": 3,
+  "damage": 323558,
+  "health_ramain": 172826,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589342249,
+  "comment": {},
+  "cycle": 3,
+  "damage": 172826,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589342272,
+  "comment": {},
+  "cycle": 4,
+  "damage": 225985,
+  "health_ramain": 5774015,
+  "is_continue": true,
+  "message": null,
+  "qqid": 1246969748
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367573,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 183259,
+  "health_ramain": 3067204,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1246969748
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588854950,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 178729,
+  "health_ramain": 7007625,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1298412369
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829774,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 279700,
+  "health_ramain": 3510973,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1432373159
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829804,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 232540,
+  "health_ramain": 3131183,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1432373159
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588863283,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 203966,
+  "health_ramain": 936457,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588899055,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 337389,
+  "health_ramain": 7884863,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588917031,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 231499,
+  "health_ramain": 887619,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588952633,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 127743,
+  "health_ramain": 7435936,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589033443,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 409503,
+  "health_ramain": 8075173,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589034682,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 367192,
+  "health_ramain": 6532178,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589034866,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 202301,
+  "health_ramain": 6329877,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589106062,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 286858,
+  "health_ramain": 4620740,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589106293,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 355211,
+  "health_ramain": 3646618,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589106575,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 212863,
+  "health_ramain": 3433755,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589156649,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 359592,
+  "health_ramain": 6486540,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589181101,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 352300,
+  "health_ramain": 1919375,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589201885,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 218641,
+  "health_ramain": 3614828,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589265043,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 329860,
+  "health_ramain": 9663655,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589295732,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 407152,
+  "health_ramain": 12252691,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1432373159
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589296037,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 209014,
+  "health_ramain": 12043677,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1432373159
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589347806,
+  "comment": {},
+  "cycle": 4,
+  "damage": 350412,
+  "health_ramain": 4164523,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589379346,
+  "comment": {},
+  "cycle": 4,
+  "damage": 429250,
+  "health_ramain": 7311565,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589380094,
+  "comment": {},
+  "cycle": 4,
+  "damage": 208742,
+  "health_ramain": 6844588,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589438167,
+  "comment": {},
+  "cycle": 4,
+  "damage": 357005,
+  "health_ramain": 6523871,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589455280,
+  "comment": {},
+  "cycle": 4,
+  "damage": 361188,
+  "health_ramain": 4729192,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1432373159
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588832720,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 297152,
+  "health_ramain": 4342647,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1453617872
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588833039,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 318838,
+  "health_ramain": 4023809,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1453617872
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588833049,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 222195,
+  "health_ramain": 3801614,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1453617872
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588905904,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 381555,
+  "health_ramain": 5260247,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588938719,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 225268,
+  "health_ramain": 12597336,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588938725,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 0,
+  "health_ramain": 12597336,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588991641,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 374230,
+  "health_ramain": 1159295,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588992687,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 313465,
+  "health_ramain": 846370,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589033680,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 238947,
+  "health_ramain": 7843876,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589090269,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 239234,
+  "health_ramain": 8795346,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589116353,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 358822,
+  "health_ramain": 17435968,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589116358,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 385149,
+  "health_ramain": 17050819,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589161625,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 419293,
+  "health_ramain": 3316233,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589161637,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 370859,
+  "health_ramain": 2945374,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589206963,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 271300,
+  "health_ramain": 9256684,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293070,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 250987,
+  "health_ramain": 16305982,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293593,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 250987,
+  "health_ramain": 15402997,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293606,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 359616,
+  "health_ramain": 15043381,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589330650,
+  "comment": {},
+  "cycle": 3,
+  "damage": 536119,
+  "health_ramain": 4612006,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589336122,
+  "comment": {},
+  "cycle": 3,
+  "damage": 382614,
+  "health_ramain": 1919385,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589379468,
+  "comment": {},
+  "cycle": 4,
+  "damage": 258235,
+  "health_ramain": 7053330,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456792,
+  "comment": {},
+  "cycle": 4,
+  "damage": 424630,
+  "health_ramain": 16201289,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457004,
+  "comment": {},
+  "cycle": 4,
+  "damage": 321712,
+  "health_ramain": 15026068,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457111,
+  "comment": {},
+  "cycle": 4,
+  "damage": 259338,
+  "health_ramain": 14182651,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1453617872
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829574,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 378743,
+  "health_ramain": 5621257,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1551940735
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829939,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 421404,
+  "health_ramain": 741437,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1551940735
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588830318,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 260361,
+  "health_ramain": 110264,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1551940735
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588893910,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 363495,
+  "health_ramain": 10899161,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588893944,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 394976,
+  "health_ramain": 10504185,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588913219,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 227885,
+  "health_ramain": 3013903,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588976362,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 403784,
+  "health_ramain": 7032152,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588976381,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 454130,
+  "health_ramain": 6578022,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589003843,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 267215,
+  "health_ramain": 2101203,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589066489,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 261455,
+  "health_ramain": 1692503,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589078219,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 401397,
+  "health_ramain": 10895337,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589084714,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 411798,
+  "health_ramain": 10059702,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589157682,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 386153,
+  "health_ramain": 5561929,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1551940735
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589157791,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 333966,
+  "health_ramain": 5227963,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1551940735
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589193972,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 288428,
+  "health_ramain": 300369,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589235301,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 429362,
+  "health_ramain": 2750540,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589247292,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 427868,
+  "health_ramain": 762224,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589283757,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 243392,
+  "health_ramain": 4090911,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589325703,
+  "comment": {},
+  "cycle": 3,
+  "damage": 434712,
+  "health_ramain": 7221131,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589347927,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 291246,
+  "health_ramain": 3873277,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1551940735
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851173,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 459382,
+  "health_ramain": 2534807,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851450,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 450695,
+  "health_ramain": 1649066,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851519,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 276339,
+  "health_ramain": 602782,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1762520419
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588922346,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 386133,
+  "health_ramain": 17615291,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588922596,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 430357,
+  "health_ramain": 16976478,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588922604,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 290709,
+  "health_ramain": 16685769,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589029855,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 586407,
+  "health_ramain": 2876524,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589031064,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 387411,
+  "health_ramain": 209948,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589032169,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 291157,
+  "health_ramain": 9189272,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589104293,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 443100,
+  "health_ramain": 5584354,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589104777,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 401730,
+  "health_ramain": 5182624,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589105045,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 275026,
+  "health_ramain": 4907598,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589203006,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 527940,
+  "health_ramain": 3086888,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589203545,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 480495,
+  "health_ramain": 2606393,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589203798,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 280116,
+  "health_ramain": 2326277,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589290012,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 415153,
+  "health_ramain": 2128176,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589290047,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 436048,
+  "health_ramain": 1692128,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589290068,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 278643,
+  "health_ramain": 1413485,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1762520419
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588908814,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 366355,
+  "health_ramain": 4893892,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588908822,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 225374,
+  "health_ramain": 4668518,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588908830,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 198277,
+  "health_ramain": 4470241,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588988529,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 421158,
+  "health_ramain": 2325969,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588988562,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 230276,
+  "health_ramain": 2095693,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588988577,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 191452,
+  "health_ramain": 1904241,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589074235,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 425706,
+  "health_ramain": 69978,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589074260,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 69978,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589109118,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 182289,
+  "health_ramain": 2327859,
+  "is_continue": true,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589109130,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 147502,
+  "health_ramain": 2180357,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589166483,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 401670,
+  "health_ramain": 284178,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1844592332
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589166703,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 276076,
+  "health_ramain": 5723924,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1844592332
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589173752,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 223747,
+  "health_ramain": 3500024,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299032,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 399086,
+  "health_ramain": 11164214,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299039,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 176743,
+  "health_ramain": 10987471,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1844592332
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589299045,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 229051,
+  "health_ramain": 10758420,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1844592332
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829651,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 363913,
+  "health_ramain": 4581853,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588853554,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 250089,
+  "health_ramain": 9238022,
+  "is_continue": false,
+  "message": "",
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588856616,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 162306,
+  "health_ramain": 6289612,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588913129,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 326339,
+  "health_ramain": 3241788,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588914090,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 246747,
+  "health_ramain": 2767156,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588935603,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 218636,
+  "health_ramain": 13710928,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588981728,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 403611,
+  "health_ramain": 6174411,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589010597,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 26550,
+  "health_ramain": 1752106,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589070224,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 217945,
+  "health_ramain": 495684,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589111571,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 263102,
+  "health_ramain": 1165857,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589121766,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 392712,
+  "health_ramain": 11355932,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589156218,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 401358,
+  "health_ramain": 6846132,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589205412,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 276533,
+  "health_ramain": 816682,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589207103,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 238059,
+  "health_ramain": 9018625,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589279006,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 390603,
+  "health_ramain": 7752021,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589296424,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 204737,
+  "health_ramain": 11838940,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589296434,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 275640,
+  "health_ramain": 11563300,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589350689,
+  "comment": {},
+  "cycle": 4,
+  "damage": 404936,
+  "health_ramain": 3468341,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589382768,
+  "comment": {},
+  "cycle": 4,
+  "damage": 275615,
+  "health_ramain": 4333616,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589382778,
+  "comment": {},
+  "cycle": 4,
+  "damage": 214678,
+  "health_ramain": 4118938,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589413039,
+  "comment": {},
+  "cycle": 4,
+  "damage": 438960,
+  "health_ramain": 3129671,
+  "is_continue": false,
+  "message": null,
+  "qqid": 1870438910
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588857588,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 389089,
+  "health_ramain": 5407841,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588858892,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 222068,
+  "health_ramain": 5185773,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860420,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 124410,
+  "health_ramain": 2887291,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588911873,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 394372,
+  "health_ramain": 3811677,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588938580,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 283632,
+  "health_ramain": 12822604,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588938973,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 174573,
+  "health_ramain": 12422763,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589035862,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 385206,
+  "health_ramain": 5707940,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589036144,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 284465,
+  "health_ramain": 5423475,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589036367,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 213133,
+  "health_ramain": 5210342,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589081008,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 205658,
+  "health_ramain": 10689679,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589106192,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 354356,
+  "health_ramain": 4266384,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589115361,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 43245,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589115483,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 286848,
+  "health_ramain": 19713152,
+  "is_continue": true,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208579,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 322401,
+  "health_ramain": 6322298,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208688,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 366536,
+  "health_ramain": 5955762,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208896,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 184168,
+  "health_ramain": 5771594,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589283732,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 362127,
+  "health_ramain": 4334303,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589283888,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 279289,
+  "health_ramain": 3811622,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589284106,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 133608,
+  "health_ramain": 3678014,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589371001,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 348126,
+  "health_ramain": 5248076,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012152791
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589371107,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 315239,
+  "health_ramain": 4932837,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012152791
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589371383,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 213672,
+  "health_ramain": 4719165,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012152791
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456383,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 411872,
+  "health_ramain": 17130170,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456538,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 247559,
+  "health_ramain": 16625919,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456877,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 262499,
+  "health_ramain": 15938790,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012152791
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851483,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 324487,
+  "health_ramain": 1324579,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012328677
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588851537,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 296027,
+  "health_ramain": 306755,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588851769,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 219635,
+  "health_ramain": 9745382,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588900886,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 365809,
+  "health_ramain": 7145694,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588914923,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 261822,
+  "health_ramain": 2233821,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588924196,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 234865,
+  "health_ramain": 16450904,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588991079,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 370716,
+  "health_ramain": 1533525,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589024659,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 220710,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2012328677
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589024692,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 83290,
+  "health_ramain": 7916710,
+  "is_continue": true,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589024710,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 228403,
+  "health_ramain": 7688307,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589082212,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 218179,
+  "health_ramain": 10471500,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589103817,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 230049,
+  "health_ramain": 6027454,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589108087,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 385330,
+  "health_ramain": 3048425,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589207630,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 420358,
+  "health_ramain": 8585825,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208246,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 291156,
+  "health_ramain": 7206876,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208444,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 215515,
+  "health_ramain": 6991361,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589286193,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 395351,
+  "health_ramain": 3036497,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589286221,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 279128,
+  "health_ramain": 2757369,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589286235,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 214040,
+  "health_ramain": 2543329,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589378075,
+  "comment": {},
+  "cycle": 4,
+  "damage": 165372,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589378129,
+  "comment": {},
+  "cycle": 4,
+  "damage": 23905,
+  "health_ramain": 9976095,
+  "is_continue": true,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589378522,
+  "comment": {},
+  "cycle": 4,
+  "damage": 420236,
+  "health_ramain": 9555859,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589378645,
+  "comment": {},
+  "cycle": 4,
+  "damage": 314288,
+  "health_ramain": 9241571,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589432323,
+  "comment": {},
+  "cycle": 4,
+  "damage": 410201,
+  "health_ramain": 9458363,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589466768,
+  "comment": {},
+  "cycle": 4,
+  "damage": 275626,
+  "health_ramain": 12435194,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589466930,
+  "comment": {},
+  "cycle": 4,
+  "damage": 265929,
+  "health_ramain": 12169265,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2012328677
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860109,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 438627,
+  "health_ramain": 4326460,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2097987736
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588860446,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 312008,
+  "health_ramain": 2575283,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2097987736
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588861319,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 241224,
+  "health_ramain": 1721766,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588918353,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 428706,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588918424,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 20487,
+  "health_ramain": 19873226,
+  "is_continue": true,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588938019,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 320642,
+  "health_ramain": 13106236,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588940879,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 257870,
+  "health_ramain": 12164893,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588984607,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 504980,
+  "health_ramain": 3469682,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589017394,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 395000,
+  "health_ramain": 888684,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589023728,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 264301,
+  "health_ramain": 385426,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117197,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 518541,
+  "health_ramain": 15766893,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117225,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 379363,
+  "health_ramain": 15263219,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589117239,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 241653,
+  "health_ramain": 15021566,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211640,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 481929,
+  "health_ramain": 5020411,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2097987736
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211647,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 334665,
+  "health_ramain": 4685746,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2097987736
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589211653,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 257664,
+  "health_ramain": 4428082,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293042,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 498159,
+  "health_ramain": 16556969,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293374,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 414898,
+  "health_ramain": 15653984,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293650,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 236824,
+  "health_ramain": 14361487,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589378913,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 506818,
+  "health_ramain": 8003667,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2097987736
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829896,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 423318,
+  "health_ramain": 1824558,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2270456810
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829910,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 323018,
+  "health_ramain": 1501540,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2270456810
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588832654,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 261129,
+  "health_ramain": 4639799,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588898132,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 369722,
+  "health_ramain": 8994232,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588898601,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 385500,
+  "health_ramain": 8608732,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588914841,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 271513,
+  "health_ramain": 2495643,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588981893,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 430760,
+  "health_ramain": 5743651,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588986241,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 474317,
+  "health_ramain": 2995365,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588987218,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 248238,
+  "health_ramain": 2747127,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589113920,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 224021,
+  "health_ramain": 941836,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589115858,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 530618,
+  "health_ramain": 19182534,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589116435,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 446860,
+  "health_ramain": 16603959,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589157517,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 538458,
+  "health_ramain": 5948082,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589160573,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 312366,
+  "health_ramain": 3735526,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589176446,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 445447,
+  "health_ramain": 3054577,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589279688,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 441985,
+  "health_ramain": 6371773,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589280455,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 450620,
+  "health_ramain": 5921153,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589281195,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 274945,
+  "health_ramain": 5646208,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589324238,
+  "comment": {},
+  "cycle": 3,
+  "damage": 558584,
+  "health_ramain": 7655843,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589367725,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 480137,
+  "health_ramain": 7504196,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2270456810
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589367911,
+  "comment": {},
+  "cycle": 4,
+  "damage": 271661,
+  "health_ramain": 7232535,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589456898,
+  "comment": {},
+  "cycle": 4,
+  "damage": 591010,
+  "health_ramain": 15347780,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457352,
+  "comment": {},
+  "cycle": 4,
+  "damage": 412718,
+  "health_ramain": 13769933,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589457737,
+  "comment": {},
+  "cycle": 4,
+  "damage": 315470,
+  "health_ramain": 13030724,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2270456810
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588829922,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 338699,
+  "health_ramain": 1162841,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588832616,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 188104,
+  "health_ramain": 5169827,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588832632,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 268899,
+  "health_ramain": 4900928,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2587147304
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588905107,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 336388,
+  "health_ramain": 5956866,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588940894,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 349161,
+  "health_ramain": 11815732,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588940912,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 205677,
+  "health_ramain": 11610055,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589024765,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 463574,
+  "health_ramain": 7224733,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589024782,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 411296,
+  "health_ramain": 6813437,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589024941,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 239017,
+  "health_ramain": 6090567,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589088839,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 215790,
+  "health_ramain": 9034580,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589116065,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 401055,
+  "health_ramain": 18781479,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589116084,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 410482,
+  "health_ramain": 18370997,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589200472,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 431699,
+  "health_ramain": 5910423,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589200510,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 447709,
+  "health_ramain": 5462714,
+  "is_continue": false,
+  "message": "",
+  "qqid": 2587147304
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589206339,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 210921,
+  "health_ramain": 605761,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589291427,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 371870,
+  "health_ramain": 1041615,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589291442,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 351117,
+  "health_ramain": 364455,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589294074,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 232393,
+  "health_ramain": 12037555,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2587147304
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588868341,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 369916,
+  "health_ramain": 178093,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2634808820
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588869101,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 332882,
+  "health_ramain": 11391796,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2634808820
+}, {
+  "boss_num": 4,
+  "challenge_time": 1588869216,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 129140,
+  "health_ramain": 11262656,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2634808820
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588984339,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 381348,
+  "health_ramain": 4926470,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2634808820
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588984358,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 377996,
+  "health_ramain": 4548474,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2634808820
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588984395,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 178582,
+  "health_ramain": 4369892,
+  "is_continue": false,
+  "message": null,
+  "qqid": 2634808820
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588854882,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 440986,
+  "health_ramain": 7596791,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588855256,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 319379,
+  "health_ramain": 6451918,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1588856629,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 210792,
+  "health_ramain": 6078820,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588943204,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 451950,
+  "health_ramain": 10671948,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588943811,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 339154,
+  "health_ramain": 10332794,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588944250,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 228812,
+  "health_ramain": 10103982,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589029953,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 501517,
+  "health_ramain": 2375007,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589030663,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 347462,
+  "health_ramain": 1087018,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589035043,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 236731,
+  "health_ramain": 6093146,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589121325,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 400660,
+  "health_ramain": 11748644,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589121831,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 409494,
+  "health_ramain": 10946438,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589123214,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 281388,
+  "health_ramain": 10665050,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589206944,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 472016,
+  "health_ramain": 9527984,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208449,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 346662,
+  "health_ramain": 6644699,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589208951,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 269254,
+  "health_ramain": 5502340,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 4,
+  "challenge_time": 1589291432,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 326043,
+  "health_ramain": 715572,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589293613,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 445070,
+  "health_ramain": 14598311,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589294077,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 279426,
+  "health_ramain": 11758129,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589380454,
+  "comment": {},
+  "cycle": 4,
+  "damage": 482848,
+  "health_ramain": 6361740,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589380828,
+  "comment": {},
+  "cycle": 4,
+  "damage": 367965,
+  "health_ramain": 5748971,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589381205,
+  "comment": {},
+  "cycle": 4,
+  "damage": 295514,
+  "health_ramain": 5453457,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589468883,
+  "comment": {},
+  "cycle": 4,
+  "damage": 520672,
+  "health_ramain": 11648593,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589469247,
+  "comment": {},
+  "cycle": 4,
+  "damage": 398093,
+  "health_ramain": 11250500,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589469699,
+  "comment": {},
+  "cycle": 4,
+  "damage": 250260,
+  "health_ramain": 11000240,
+  "is_continue": false,
+  "message": null,
+  "qqid": 3063185760
+}, {
+  "boss_num": 1,
+  "challenge_time": 1588830373,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 110264,
+  "health_ramain": 0,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588830404,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 132768,
+  "health_ramain": 7867232,
+  "is_continue": true,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 2,
+  "challenge_time": 1588840603,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 150488,
+  "health_ramain": 3651126,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588934338,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 137153,
+  "health_ramain": 14769862,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588984479,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 284176,
+  "health_ramain": 4085716,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1588984526,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 1,
+  "damage": 111054,
+  "health_ramain": 3974662,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 3,
+  "challenge_time": 1589044279,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 132514,
+  "health_ramain": 2702184,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589124140,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 313488,
+  "health_ramain": 9821149,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589124415,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 268395,
+  "health_ramain": 9552754,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589124686,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 2,
+  "damage": 98410,
+  "health_ramain": 9131146,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589200424,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 364439,
+  "health_ramain": 6852739,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589200439,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 414711,
+  "health_ramain": 6438028,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 2,
+  "challenge_time": 1589200451,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 95906,
+  "health_ramain": 6342122,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589294312,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 381790,
+  "health_ramain": 11376339,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589294320,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 395214,
+  "health_ramain": 10981125,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 5,
+  "challenge_time": 1589294527,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 3,
+  "damage": 121449,
+  "health_ramain": 12640002,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367622,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 391006,
+  "health_ramain": 1554521,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367630,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 409771,
+  "health_ramain": 1144750,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}, {
+  "boss_num": 1,
+  "challenge_time": 1589367638,
+  "comment": {
+    "behalf": "\u7531\u6e05\u971c\u4ee3\u62a5\u3002"
+  },
+  "cycle": 4,
+  "damage": 118864,
+  "health_ramain": 1025886,
+  "is_continue": false,
+  "message": "",
+  "qqid": 3150539648
+}]
