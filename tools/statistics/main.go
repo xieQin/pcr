@@ -9,7 +9,7 @@ import (
 	"strconv"
 )
 
-var version string = "v1"
+var version string = "v2"
 
 // User struct
 type User struct {
@@ -103,6 +103,10 @@ func WriteFile(path string, data []byte) {
 	}
 }
 
+func CalculateBossDamage(boss int, data []UserChallenge) {
+
+}
+
 func main() {
 	userData := ReadFile("./data/"+version+"/user.json", 10000)
 	userChallengeData := ReadFile("./data/"+version+"/challenge.json", 1000000)
@@ -115,9 +119,40 @@ func main() {
 
 	results := map[string]*UserChallengeTotal{}
 
+	boss_num1 := map[string]*UserChallengeTotal{}
+	boss_num2 := map[string]*UserChallengeTotal{}
+	boss_num3 := map[string]*UserChallengeTotal{}
+	boss_num4 := map[string]*UserChallengeTotal{}
+	boss_num5 := map[string]*UserChallengeTotal{}
+
 	for _, user := range users {
 		qqid := strconv.Itoa(user.QQID)
 		results[qqid] = &UserChallengeTotal{
+			QQID:     user.QQID,
+			Damage:   0,
+			NickName: user.NickName,
+		}
+		boss_num1[qqid] = &UserChallengeTotal{
+			QQID:     user.QQID,
+			Damage:   0,
+			NickName: user.NickName,
+		}
+		boss_num2[qqid] = &UserChallengeTotal{
+			QQID:     user.QQID,
+			Damage:   0,
+			NickName: user.NickName,
+		}
+		boss_num3[qqid] = &UserChallengeTotal{
+			QQID:     user.QQID,
+			Damage:   0,
+			NickName: user.NickName,
+		}
+		boss_num4[qqid] = &UserChallengeTotal{
+			QQID:     user.QQID,
+			Damage:   0,
+			NickName: user.NickName,
+		}
+		boss_num5[qqid] = &UserChallengeTotal{
 			QQID:     user.QQID,
 			Damage:   0,
 			NickName: user.NickName,
@@ -131,9 +166,25 @@ func main() {
 			damage := challenge.Damage
 			results[qqid].Damage += damage
 		}
+		if challenge.BossNum == 1 {
+			boss_num1[qqid].Damage += challenge.Damage
+		}
+		if challenge.BossNum == 2 {
+			boss_num2[qqid].Damage += challenge.Damage
+		}
+		if challenge.BossNum == 3 {
+			boss_num3[qqid].Damage += challenge.Damage
+		}
+		if challenge.BossNum == 4 {
+			boss_num4[qqid].Damage += challenge.Damage
+		}
+		if challenge.BossNum == 5 {
+			boss_num5[qqid].Damage += challenge.Damage
+		}
 	}
 
 	fmt.Println(results)
+
 	// var sortedRes UserChallengeTotalSlice
 	sortedRes := make(UserChallengeTotalSlice, 0)
 	for _, res := range results {
@@ -152,6 +203,85 @@ func main() {
 		fmt.Println("昵称：", i.NickName, "，伤害：", i.Damage)
 	}
 
-	data := Marshal(sortedRes)
-	WriteFile("./res/results"+version+".json", data)
+	// var sortedRes UserChallengeTotalSlice
+	boss1 := make(UserChallengeTotalSlice, 0)
+	for _, b := range boss_num1 {
+		item := UserChallengeTotal{
+			Damage:   b.Damage,
+			QQID:     b.QQID,
+			NickName: b.NickName,
+		}
+		boss1 = append(boss1, item)
+	}
+	sort.Stable(boss1)
+
+	fmt.Println("1王伤害排名")
+	for _, i := range boss1 {
+		fmt.Println("昵称：", i.NickName, "，伤害：", i.Damage)
+	}
+
+	boss2 := make(UserChallengeTotalSlice, 0)
+	for _, b := range boss_num2 {
+		item := UserChallengeTotal{
+			Damage:   b.Damage,
+			QQID:     b.QQID,
+			NickName: b.NickName,
+		}
+		boss2 = append(boss2, item)
+	}
+	sort.Stable(boss2)
+
+	fmt.Println("2王伤害排名")
+	for _, i := range boss2 {
+		fmt.Println("昵称：", i.NickName, "，伤害：", i.Damage)
+	}
+
+	boss3 := make(UserChallengeTotalSlice, 0)
+	for _, b := range boss_num3 {
+		item := UserChallengeTotal{
+			Damage:   b.Damage,
+			QQID:     b.QQID,
+			NickName: b.NickName,
+		}
+		boss3 = append(boss3, item)
+	}
+	sort.Stable(boss3)
+
+	fmt.Println("3王伤害排名")
+	for _, i := range boss3 {
+		fmt.Println("昵称：", i.NickName, "，伤害：", i.Damage)
+	}
+
+	boss4 := make(UserChallengeTotalSlice, 0)
+	for _, b := range boss_num4 {
+		item := UserChallengeTotal{
+			Damage:   b.Damage,
+			QQID:     b.QQID,
+			NickName: b.NickName,
+		}
+		boss4 = append(boss4, item)
+	}
+	sort.Stable(boss4)
+
+	fmt.Println("4王伤害排名")
+	for _, i := range boss4 {
+		fmt.Println("昵称：", i.NickName, "，伤害：", i.Damage)
+	}
+
+	boss5 := make(UserChallengeTotalSlice, 0)
+	for _, b := range boss_num5 {
+		item := UserChallengeTotal{
+			Damage:   b.Damage,
+			QQID:     b.QQID,
+			NickName: b.NickName,
+		}
+		boss5 = append(boss5, item)
+	}
+	sort.Stable(boss5)
+
+	fmt.Println("5王伤害排名")
+	for _, i := range boss5 {
+		fmt.Println("昵称：", i.NickName, "，伤害：", i.Damage)
+	}
+
 }
